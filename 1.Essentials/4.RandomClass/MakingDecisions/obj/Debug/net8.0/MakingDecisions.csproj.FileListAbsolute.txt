@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\bin\Debug\net8.0\MakingDecisions.exe
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\bin\Debug\net8.0\MakingDecisions.deps.json
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\bin\Debug\net8.0\MakingDecisions.runtimeconfig.json
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\bin\Debug\net8.0\MakingDecisions.dll
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\bin\Debug\net8.0\MakingDecisions.pdb
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\MakingDecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\MakingDecisions.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\MakingDecisions.AssemblyInfo.cs
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\MakingDecisions.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\MakingDecisions.dll
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\refint\MakingDecisions.dll
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\MakingDecisions.pdb
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\MakingDecisions.genruntimeconfig.cache
+C:\Users\andre\source\repos\MakingDecisions\MakingDecisions\obj\Debug\net8.0\ref\MakingDecisions.dll

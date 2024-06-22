@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\bin\Debug\net8.0\LoopsArrays.exe
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\bin\Debug\net8.0\LoopsArrays.deps.json
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\bin\Debug\net8.0\LoopsArrays.runtimeconfig.json
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\bin\Debug\net8.0\LoopsArrays.dll
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\bin\Debug\net8.0\LoopsArrays.pdb
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\LoopsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\LoopsArrays.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\LoopsArrays.AssemblyInfo.cs
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\LoopsArrays.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\LoopsArrays.dll
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\refint\LoopsArrays.dll
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\LoopsArrays.pdb
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\LoopsArrays.genruntimeconfig.cache
+C:\Users\andre\source\repos\C#exercises\1.Essentials\One\LoopsArrays\LoopsArrays\obj\Debug\net8.0\ref\LoopsArrays.dll
