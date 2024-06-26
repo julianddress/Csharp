@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoopsArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0081d7f8d87368daeccd0fa01c705b28bd77aa5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoopsArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoopsArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -388,50 +388,54 @@
 // Write a C# Sharp program to find the sum of rows and columns in a matrix.
 
 
-Console.Write("Enter the size for the array with format [x, x]: ");
-int data = int.Parse(Console.ReadLine());
+//Console.Write("Enter the size for the array with format [x, x]: ");
+//int data = int.Parse(Console.ReadLine());
 
-Console.WriteLine();
+//Console.WriteLine();
 
-int[,] arrayR_C = new int[data, data];
+//int[,] arrayR_C = new int[data, data];
 
-for (int i = 0; i < data; i++)
-{
-    for (int j = 0; j < data; j++)
-    {
-        Console.Write($"Enter the value for the position [{i}][{j}]: ");
-        arrayR_C[i, j] = int.Parse(Console.ReadLine());
-    }
-}
+//for (int i = 0; i < data; i++)
+//{
+//    for (int j = 0; j < data; j++)
+//    {
+//        Console.Write($"Enter the value for the position [{i}][{j}]: ");
+//        arrayR_C[i, j] = int.Parse(Console.ReadLine());
+//    }
+//}
 
-Console.WriteLine();
+//Console.WriteLine();
 
-int sumFila = 0;
+//int sumFila = 0;
 
-for (int i = 0; i < data; i++)
-{
-    for (int j = 0; j < data; j++)
-    {
-        Console.Write(arrayR_C[i, j] + " ");
-        sumFila = sumFila + arrayR_C[i, j];
-    }
-    Console.Write("- " + sumFila);
-    sumFila = 0;
-    Console.WriteLine();
-}
+//for (int i = 0; i < data; i++)
+//{
+//    for (int j = 0; j < data; j++)
+//    {
+//        Console.Write(arrayR_C[i, j] + " ");
+//        sumFila = sumFila + arrayR_C[i, j];
+//    }
+//    Console.Write("- " + sumFila);
+//    sumFila = 0;
+//    Console.WriteLine();
+//}
 
-Console.WriteLine();
+//Console.WriteLine();
 
-int sumColumns = 0;
+//int sumColumns = 0;
 
-for (int i = 0; i < data; i++)
-{
-    for (int j = 0; j < data; j++)
-    {
-        sumColumns = sumColumns + arrayR_C[j, i];
-    }
-    Console.Write(sumColumns + " ");
-    sumColumns = 0;
-}
+//for (int i = 0; i < data; i++)
+//{
+//    for (int j = 0; j < data; j++)
+//    {
+//        sumColumns = sumColumns + arrayR_C[j, i];
+//    }
+//    Console.Write(sumColumns + " ");
+//    sumColumns = 0;
+//}
 
-Console.ReadKey();
+//Console.ReadKey();
+
+
+// ----------------------------------------------------------------------------
+// 
